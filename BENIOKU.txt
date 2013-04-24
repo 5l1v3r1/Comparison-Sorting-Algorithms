@@ -1,0 +1,39 @@
+*************
+Sıralama Algoritmalarının Karşılaştırmalı Analizi
+
+Mehmet Dursun INCE
+Can Garip
+*************
+Önemli Notlar
+
+1- Sıralancak sayıları oluşturan uygulama Python dili ile yazılmıştır. Tüm işlemlerden önce bu dosya çalıştırılarak random sayı oluşturulmalıdır. 
+
+Python derleyicisi için
+http://www.python.org/getit/
+
+Python 2.7.3 versiyonu uyumludur. 
+
+Linux'te çalıştırmak
+
+python random_number_generate.py
+
+Windows'da çalıştırmak
+
+random_number_generate.py dosyasına çift tıklamak yeterli olacaktır.
+
+2- Tüm uygulamalar hem Windows hemde Linux altında çalışabilir yapıdadır. Tek önemli olan derleme işlemi yapıldıktan sonra oluşan binary'i çalıştırmak için;
+
+cpp ise; bin klasörü altına gidip çift tıklamak.Yada execute etmek
+
+python ise; ilgili sıralama algoritması klasörüne gidip çift tıklamak yada execute etmek.
+
+Bunun nedeni okunacak dosyalar ile binarynin bulunduğu yer farklı dizinlerde kod yapısından ötürü o dizine gidip çalıştırmaz isenize dosyayı bulamadığı için segfault hatası verecektir.
+
+3 - Oluşan binaryler çalıştırıldığın herhangi bir çıktıyı ekrana yazmak. Tüm sonuçları bulunduğu dizinde oluşturduğu results.txt içine yazar. Bu txt'yi belli aralıklar ile kontrol edersiniz sonuçları görebilirsiniz!
+
+
+Tüm kodlar 5 Nisan 2013 15:46'da tekrar kontrol edilmiştir ve herhangi bir bug'a rastlanılmamıştır.
+
+Oluşan herhangi bir hata için lütfen 530 640 32 07:)
+
+
